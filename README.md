@@ -1,4 +1,4 @@
-# React + Vite
+# React 
 Proyecto formulario dinamico con componentes,hooks,localstorage
 
 hooks use state y use effect
